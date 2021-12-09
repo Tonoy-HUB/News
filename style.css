@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.p1{
+	color: blue;
+}
+.p2{
+	color: #fbff0085;
+}
+.p3{
+	color: rgb(100, 200, 0);
+}
+body{
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: normal;
+	/*same as above*/
+	font: normal 30px 'Roboto';
+}
+.padding{
+	border: 5px solid black;
+	border-radius: 10px;
+
+	/*padding-top: 15px;	
+	padding-right: 20px;
+	padding-bottom:15px;
+	padding-left: 20px;*/
+
+	padding: 15px 20px;
+
+}
+
+
